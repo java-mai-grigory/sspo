@@ -35,7 +35,7 @@ public:
 
     bool empty()
     {
-        return true;
+        return head;
     }
 
 
